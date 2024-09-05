@@ -13,7 +13,7 @@ function Home() {
       <div className="col">
     <Cards paths={two}/>
       </div>
-   
+   <h2>git demo updation</h2>
       <div className="col">
       <Cards paths={one} />
       </div>

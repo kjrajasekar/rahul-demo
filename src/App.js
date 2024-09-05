@@ -13,6 +13,7 @@ function App() {
     <div>
     <Mains  />
     <Home  />
+    <p>sample text</p>
     <Service />
     </div>
   );
